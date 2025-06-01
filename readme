@@ -1,0 +1,6 @@
+*usar o bun*
+
+1 - bun i
+1.1- bun run docker
+2 - bun run seed
+3 - bun run dev
